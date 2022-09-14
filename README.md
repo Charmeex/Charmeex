@@ -1,8 +1,9 @@
 - Hello, I'm Charmee! 👋
-- I’m an Italian programmer 🖥️
-- Pokémon enthusiast and a top Italian Pokémon Unite player 🏆
-- Helping with translating in the UniteAPI project! 🌐
-- @CharmeeUnite on Twitter 🐦
+- Italian developer 🖥️
+- Pokémon enthusiast, especially Mystery Dungeon 📶
+- Developing for Pokémon Millennium 🤖
+- Contributing with the translation of the UniteAPI website 🌐
+- @CharmeePika on Twitter 🐦
 
 <!---
 Charmeex/Charmeex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
